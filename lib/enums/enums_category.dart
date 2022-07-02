@@ -1,0 +1,15 @@
+enum CategoryEnum{
+  supermarket,
+  kozmetik,
+  yapi_market,
+  moda,
+  kitap,
+  otomotiv,
+  restorant,
+  seyahat,
+  spor,
+  ev_mobilya,
+  cocuk,
+  elektronik,
+  bankalar,
+}
